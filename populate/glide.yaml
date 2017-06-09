@@ -1,0 +1,6 @@
+package: github.com/dkassab/volumes/populate
+import:
+- package: github.com/garyburd/redigo
+  version: ^1.1.0
+  subpackages:
+  - redis

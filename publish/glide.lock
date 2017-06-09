@@ -1,0 +1,11 @@
+hash: c6913043447fc820471d69fe13fd6b9214bc4efbbedb6d0be5fad386d18e96e2
+updated: 2017-06-06T12:44:33.752610554-04:00
+imports:
+- name: github.com/garyburd/redigo
+  version: 433969511232c397de61b1442f9fd49ec06ae9ba
+  subpackages:
+  - internal
+  - redis
+- name: github.com/streadway/amqp
+  version: dfe15e36048539f4cda41f240b27a5ca25b9cd46
+testImports: []
